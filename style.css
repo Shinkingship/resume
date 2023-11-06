@@ -1,1 +1,4 @@
-h1{text-align: center};
+h1{text-align: center;}
+h2{font-weight: bolder;}
+#portrait{ border-radius:50px; -webkit-border-radius:50px; -moz-border-radius:50px; -ms-border-radius:50px; -o-border-radius:50px; border-color: skyblue; border-width: 2px; border-style: outset;}
+.sub-judul{font-style: italic;}
